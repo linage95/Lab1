@@ -1,11 +1,4 @@
- #include <iostream>
- #include <iomanip> 
- #include <windows.h>  
- #include <float.h>
- #include <fstream>
- #include <typeinfo.h> 
- #include "MyClass.h"
- #include <stdlib.h>
+Бога нет
  #include <time.h>
  
  using namespace std;
