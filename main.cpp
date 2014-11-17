@@ -2,12 +2,7 @@
  #include <time.h>
  
  using namespace std;
- 
-template <class R>
-int Input(R& x, char* prm)
- { long double e;
-	ifstream my_inp("CON");
-	cout<<"Введите значение переменной "<<prm<<" типа "<<typeid(x).name()<<"===>"; 
+ ]ние переменной "<<prm<<" типа "<<typeid(x).name()<<"===>"; 
     if (typeid(R)==typeid(float))
 		my_inp>>e;
 	else
